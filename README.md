@@ -24,3 +24,6 @@ Kanban board using react and redux.
 - [ ] able to delete a lane
 - [ ] able to drag and drop a task from one lane to another
 - [ ] badge for standard readme
+- [ ] add automated tests using saucelabs
+- [ ] add saucelabs badge
+- [ ] saucelabs for automated functional tests
